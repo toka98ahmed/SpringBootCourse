@@ -1,0 +1,43 @@
+package com.springbootdemo.myapp.rest;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@org.springframework.web.bind.annotation.RestController
+
+
+public class RestController {
+
+    @Value("${coach.name}")
+    private String coachName;
+    @Value("${team.name}")
+    private String teamName;
+
+    @GetMapping("/teaminfo")
+    public String getTeamInfo(){
+        return "Coach: " + coachName + ", Team name: " + teamName;
+    }
+
+    //expose "/" that return "hello world"
+    @GetMapping("/")
+    public String sayHello(){
+        return "Hello World!";
+    }
+    // expose a new endpoint
+
+    @GetMapping("/workout")
+    public String getDailyWorkout()
+    {
+        return "Run for 5 K!";
+    }
+    @GetMapping("/page")
+    public String getTest()
+    {
+        return "Test!!!!!!!!!!!!!";
+    }
+
+
+    //inject properites
+
+
+}
