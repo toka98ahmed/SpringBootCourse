@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/03-actuator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/02-dev-tools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/06-properties-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/01-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/05-command-line-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/01-spring-boot-overview/04-actuator-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/05-primary/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/04-qualifiers/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/07-bean-scopes/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/03-setter-injection/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/09-java-config-bean/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/02-component-scanning/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/06-lazy-initialization/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/01-constructor-injection/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/02-spring-boot-spring-core/08-bean-lifecycle-methods/springcoredemo/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/cruddemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
